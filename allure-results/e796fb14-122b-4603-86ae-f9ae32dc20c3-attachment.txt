@@ -1,0 +1,91 @@
+sw_apply API OK
+apply Payload: null
+apply Response status: 200
+apply Response: <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Soho Works Application Form</title>
+    <script src="/assets/application-72ab36944e86a78b52acccb37bf85595a84ff8dd53cc438fb0799209ed4b41b0.js" type="a375d281b730bc50cd328b54-text/javascript"></script>
+    <link rel="stylesheet" media="all" href="/assets/sohoworks-aa7ca573503e498606fc801541397cce973a3a38417ab3cac60e9b5ecf5b7d2e.css" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="qONfgb4+9p50bp4uMiYHYCs0NKLQEjVKgDsTHHKVD+ExbxrGsC2nadNCMuPHIRkHUM+Dem5TKoFJt9ub8fGIbQ==" />
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <link rel="stylesheet" media="all" href="/stylesheets/sohoworks.css" />
+    <link rel="stylesheet" media="all" href="/assets/ie-7b223c712ccf81454affd81844c8a84e3f06dff0fccb4ddd8ac65953603f6577.css" />
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6329652/788824/css/fonts.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="msvalidate.01" content="4CCA55EB03B6C234862BE4381B3F7620" />
+
+    <!-- Google Tag Manager -->
+<script type="a375d281b730bc50cd328b54-text/javascript">
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
+        'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer',"GTM-TLFM34D");
+</script>
+<!-- End Google Tag Manager -->
+
+  </head>
+  <body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe
+    src="https://www.googletagmanager.com/ns.html?id=GTM-TLFM34D"
+    height="0" width="0" style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <header>
+    
+  </header>
+    <div class="main">
+      <div class="sw_apply_form">
+  <div class="sw_centered_form_membership_selection">
+    <form class="sw_wrapper" id="new_sw_apply" action="/sohoworks/en/sw_apply" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="hidden" name="authenticity_token" value="xvS+0wdLWjIqX2E0NLJy86KQD5nTVSXTVWBVE2D52fZfePuUCVgLxY1zzfnBtWyU2Wu4QW0UOhic7J2U451eeg==" autocomplete="off" />
+      <p class="sw_apply_title">SOHO<b class="sohoworks-bold">WORKS</b> Membership</p>
+
+      <input autocomplete="off" type="hidden" name="sw_apply[application_email_identifier]" id="sw_apply_application_email_identifier" />
+      <div>
+          <aside class="aside aside-1"><a class="sw_select_membership_button" id="sw_apply_submit" href="/sohoworks_member/en/sw_member">I am a Soho House or Soho Friends member</a></aside>
+
+        <aside class="aside aside-2"><button name="button" type="submit" class="sw_select_membership_button_last" id="sw_apply_submit">I am not a Soho House Member</button></aside>
+      </div>
+</form>  </div>
+
+  <div class="sw_centered_form_first">
+
+  </div>
+</div>
+
+
+    </div>
+  <footer>
+    
+<div class="policies">
+  <a href="https://sohoworks.com/terms-conditions/" target="_blank">Terms and conditions</a><br>
+  <a href="https://sohoworks.com/privacy-policy/" target="_blank">Privacy policy</a><br>
+  <a href="https://sohoworks.com/cookie-policy/" target="_blank">Cookie policy</a>
+</div>
+<div class="float_left">
+  <p>SOHO<b class="sohoworks-bold">WORKS</b></p>
+</div>
+<div class="float_right">
+  <p>© Soho House 2025</p>
+</div>
+  </footer>
+  <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="a375d281b730bc50cd328b54-|49" defer></script></body>
+</html>
+
+UI title Soho Works Application Form
+STEP: Click on I am Not A Soho House Member
+sw_non_member API OK
+Unable to read response body (streamed or empty)
+non Member Response status: 200
+UI title1 Soho Works Application Form

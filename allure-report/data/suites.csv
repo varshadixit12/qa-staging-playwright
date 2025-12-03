@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","22595","Full API validation for SohoWorks member application","chromium","Tue Dec 02 18:47:39 IST 2025","passed","Tue Dec 02 18:48:02 IST 2025","","SohoWorksMembership.spec.ts","",""

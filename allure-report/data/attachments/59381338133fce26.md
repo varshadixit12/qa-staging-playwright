@@ -1,0 +1,151 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner
+  - generic [ref=e5]:
+    - paragraph [ref=e6]: SOHOWORKS Membership
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - text: First name*
+        - textbox "First name*" [ref=e9]
+      - generic [ref=e10]:
+        - text: Last name*
+        - textbox "Last name*" [ref=e11]
+      - generic [ref=e12]:
+        - text: Email*
+        - textbox "Email*" [ref=e13]
+      - generic [ref=e14]:
+        - text: Date of birth*
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - text: Day
+            - spinbutton [ref=e17]
+          - generic [ref=e18]:
+            - text: Month
+            - spinbutton [ref=e19]
+          - generic [ref=e20]:
+            - text: Year
+            - spinbutton [ref=e21]
+      - generic [ref=e22]:
+        - text: How do you identify yourself?*
+        - combobox "How do you identify yourself?*" [ref=e23]:
+          - option "Pick one" [selected]
+          - option "Male"
+          - option "Female"
+          - option "Other"
+          - option "Prefer not to say"
+          - option "Non-Binary"
+    - paragraph [ref=e24]: Your membership
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - text: Membership start date*
+        - generic [ref=e27]:
+          - generic [ref=e28]:
+            - text: Day
+            - spinbutton [ref=e29]: "2"
+          - generic [ref=e30]:
+            - text: Month
+            - spinbutton [ref=e31]: "12"
+          - generic [ref=e32]:
+            - text: Year
+            - spinbutton [ref=e33]: "2025"
+      - generic [ref=e34]:
+        - text: Your primary Soho Works location*
+        - combobox "Your primary Soho Works location*" [ref=e35]:
+          - option "Pick one" [selected]
+          - option "London, 180 The Strand"
+          - option "London, Dean Street"
+          - option "London, Shoreditch"
+          - option "London, White City"
+          - option "New York, 55 Water Brooklyn"
+          - option "New York, 10 Jay Brooklyn"
+          - option "New York, 875 Washington"
+          - option "Los Angeles, 9000 Sunset"
+      - generic [ref=e36]:
+        - text: Soho Works membership type required*
+        - combobox "Soho Works membership type required*" [ref=e37]:
+          - option "Pick one" [selected]
+          - option "Lounge"
+          - option "Desk"
+          - option "Private Office"
+    - generic [ref=e38]:
+      - paragraph [ref=e39]: Lockers
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - text: Do you require a locker
+          - combobox "Do you require a locker" [ref=e42]:
+            - option "Pick one" [selected]
+            - option "Yes"
+            - option "No"
+        - paragraph [ref=e44]: For Lounge members, there is a monthly fee to rent a locker. Lockers are subject to availability.
+    - paragraph [ref=e45]: Your photo
+    - generic [ref=e47]:
+      - text: Upload a recent photo
+      - button "Upload a recent photo" [ref=e48]
+    - paragraph [ref=e49]: About your business
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - text: Registered business name*
+        - textbox "Registered business name*" [ref=e52]
+      - generic [ref=e53]:
+        - text: Nature of business*
+        - combobox "Nature of business*" [ref=e54]:
+          - option "Pick one" [selected]
+          - option "Architecture"
+          - option "Art"
+          - option "Beauty"
+          - option "Digital"
+          - option "Events"
+          - option "Fashion"
+          - option "Film"
+          - option "Finance"
+          - option "Food and Beverage"
+          - option "Graphic Design"
+          - option "Health and Wellness"
+          - option "Healthcare"
+          - option "Hospitality"
+          - option "Interior Design"
+          - option "Law"
+          - option "Marketing/Advertising/Branding"
+          - option "Media & Entertainment"
+          - option "Music"
+          - option "Performing Arts"
+          - option "Philanthropy"
+          - option "Photography"
+          - option "Public Relations"
+          - option "Publishing"
+          - option "Real Estate"
+          - option "Retail"
+          - option "Technology"
+      - generic [ref=e55]:
+        - text: Business telephone*
+        - textbox "Business telephone*" [ref=e56]
+      - generic [ref=e57]:
+        - text: Position held
+        - textbox "Position held" [ref=e58]
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - checkbox "I would like to receive membership updates and news from the Soho House family" [ref=e61]
+        - checkbox "I would like to receive membership updates and news from the Soho House family" [ref=e63]
+      - generic [ref=e64]:
+        - checkbox "Check this box to confirm you have read, understood and accepted our Soho Works terms and conditions and privacy policy" [ref=e65]
+        - checkbox "Check this box to confirm you have read, understood and accepted our Soho Works terms and conditions and privacy policy" [ref=e67]:
+          - text: Check this box to confirm you have read, understood and accepted our Soho Works
+          - link "terms and conditions" [ref=e68] [cursor=pointer]:
+            - /url: https://sohoworks.com/terms-conditions/
+          - text: and
+          - link "privacy policy" [ref=e69] [cursor=pointer]:
+            - /url: https://sohoworks.com/privacy-policy/
+    - button "Submit" [ref=e72] [cursor=pointer]
+  - contentinfo [ref=e73]:
+    - generic [ref=e74]:
+      - link "Terms and conditions" [ref=e75] [cursor=pointer]:
+        - /url: https://sohoworks.com/terms-conditions/
+      - link "Privacy policy" [ref=e76] [cursor=pointer]:
+        - /url: https://sohoworks.com/privacy-policy/
+      - link "Cookie policy" [ref=e77] [cursor=pointer]:
+        - /url: https://sohoworks.com/cookie-policy/
+    - paragraph [ref=e79]: SOHOWORKS
+    - paragraph [ref=e81]: © Soho House 2025
+```

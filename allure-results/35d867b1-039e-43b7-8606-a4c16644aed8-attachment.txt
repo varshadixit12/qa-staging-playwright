@@ -1,0 +1,2625 @@
+sw_apply API OK
+apply Payload: null
+apply Response status: 200
+apply Response: <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Soho Works Application Form</title>
+    <script src="/assets/application-72ab36944e86a78b52acccb37bf85595a84ff8dd53cc438fb0799209ed4b41b0.js" type="2569e3317905a41bcbaa086d-text/javascript"></script>
+    <link rel="stylesheet" media="all" href="/assets/sohoworks-aa7ca573503e498606fc801541397cce973a3a38417ab3cac60e9b5ecf5b7d2e.css" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="g9OfgPb875NuX9YVGeLSMdvU3w5f+Vt6YLdSzMiE+N/5OKdhVmJfpN5mqeCmfxrE5P2Sy1ZCBLeKqnx8T8pbbg==" />
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <link rel="stylesheet" media="all" href="/stylesheets/sohoworks.css" />
+    <link rel="stylesheet" media="all" href="/assets/ie-7b223c712ccf81454affd81844c8a84e3f06dff0fccb4ddd8ac65953603f6577.css" />
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6329652/788824/css/fonts.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="msvalidate.01" content="4CCA55EB03B6C234862BE4381B3F7620" />
+
+    <!-- Google Tag Manager -->
+<script type="2569e3317905a41bcbaa086d-text/javascript">
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
+        'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer',"GTM-TLFM34D");
+</script>
+<!-- End Google Tag Manager -->
+
+  </head>
+  <body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe
+    src="https://www.googletagmanager.com/ns.html?id=GTM-TLFM34D"
+    height="0" width="0" style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <header>
+    
+  </header>
+    <div class="main">
+      <div class="sw_apply_form">
+  <div class="sw_centered_form_membership_selection">
+    <form class="sw_wrapper" id="new_sw_apply" action="/sohoworks/en/sw_apply" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="hidden" name="authenticity_token" value="GXbmPbtmJvj4xJCg6avGcJfAiuYHhm7fUo4hZBN+bhljnd7cG/iWz0j971VWNg6FqOnHIw49MRK4kw/UlDDNqA==" autocomplete="off" />
+      <p class="sw_apply_title">SOHO<b class="sohoworks-bold">WORKS</b> Membership</p>
+
+      <input autocomplete="off" type="hidden" name="sw_apply[application_email_identifier]" id="sw_apply_application_email_identifier" />
+      <div>
+          <aside class="aside aside-1"><a class="sw_select_membership_button" id="sw_apply_submit" href="/sohoworks_member/en/sw_member">I am a Soho House or Soho Friends member</a></aside>
+
+        <aside class="aside aside-2"><button name="button" type="submit" class="sw_select_membership_button_last" id="sw_apply_submit">I am not a Soho House Member</button></aside>
+      </div>
+</form>  </div>
+
+  <div class="sw_centered_form_first">
+
+  </div>
+</div>
+
+
+    </div>
+  <footer>
+    
+<div class="policies">
+  <a href="https://sohoworks.com/terms-conditions/" target="_blank">Terms and conditions</a><br>
+  <a href="https://sohoworks.com/privacy-policy/" target="_blank">Privacy policy</a><br>
+  <a href="https://sohoworks.com/cookie-policy/" target="_blank">Cookie policy</a>
+</div>
+<div class="float_left">
+  <p>SOHO<b class="sohoworks-bold">WORKS</b></p>
+</div>
+<div class="float_right">
+  <p>© Soho House 2025</p>
+</div>
+  </footer>
+  <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="2569e3317905a41bcbaa086d-|49" defer></script></body>
+</html>
+
+UI title Soho Works Application Form
+STEP: Click on I am Not A Soho House Member
+sw_non_member API OK
+non Member Response Body: <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Soho Works Application Form</title>
+    <script src="/assets/application-72ab36944e86a78b52acccb37bf85595a84ff8dd53cc438fb0799209ed4b41b0.js" type="205014724f060bdf9c5e2b4a-text/javascript"></script>
+    <link rel="stylesheet" media="all" href="/assets/sohoworks-aa7ca573503e498606fc801541397cce973a3a38417ab3cac60e9b5ecf5b7d2e.css" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="/+5AO705xBb/tB1uFFzhmr9E6OPIOgwP6xUhqJv/j4iFBXjaHad0IU+NYpurwSlvgG2lJsGBU8IBCA8YHLEsOQ==" />
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <link rel="stylesheet" media="all" href="/stylesheets/sohoworks.css" />
+    <link rel="stylesheet" media="all" href="/assets/ie-7b223c712ccf81454affd81844c8a84e3f06dff0fccb4ddd8ac65953603f6577.css" />
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6329652/788824/css/fonts.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="msvalidate.01" content="4CCA55EB03B6C234862BE4381B3F7620" />
+
+    <!-- Google Tag Manager -->
+<script type="205014724f060bdf9c5e2b4a-text/javascript">
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
+        'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer',"GTM-TLFM34D");
+</script>
+<!-- End Google Tag Manager -->
+
+  </head>
+  <body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe
+    src="https://www.googletagmanager.com/ns.html?id=GTM-TLFM34D"
+    height="0" width="0" style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <header>
+    
+  </header>
+    <div class="main">
+      <div class="sw_non_member_form">
+  <div class="sw_centered_form">
+    <form class="new_sw_non_member" id="new_sw_non_member_41fb2975-23ca-46e6-8a56-9dc75e4ce756" enctype="multipart/form-data" action="/sohoworks/en/sw_non_member" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="hidden" name="authenticity_token" value="7o6/xAQrvFFw55pOVD0OGIHjx6FiY2LtLu7eF6yUTW+UZYclpLUMZsDe5bvroMbtvsqKZGvYPSDE8/CnK9ru3g==" autocomplete="off" />
+      <div class="sw-form-border sw-client-side-errors">
+  <div class="message errors-message" tabindex="0" role="alert" id="errors-message-container">
+    <h2 class="client_side_error_header">Please review the form</h2>
+    <p class="client_side_error_paragraph">Please double check the following fields before moving on with the form.</p>
+    <br>
+    <ul class="message__list">
+    </ul>
+  </div>
+</div>
+
+
+      <p class="sw_apply_title">SOHO<b class="sohoworks-bold">WORKS</b> Membership</p>
+
+      <div class="form__legend">
+        <div class="form__input">
+          <label for="sw_non_member_first_name">First name*</label>
+          <input type="text" name="sw_non_member[first_name]" id="sw_non_member_first_name" />
+        </div>
+
+        <div class="form__input">
+          <label for="sw_non_member_last_name">Last name*</label>
+          <input type="text" name="sw_non_member[last_name]" id="sw_non_member_last_name" />
+        </div>
+
+        <div class="form__input">
+          <label for="sw_non_member_email">Email* </label>
+          <input type="email" name="sw_non_member[email]" id="sw_non_member_email" />
+        </div>
+
+        <div class="form__input form__input_date">
+          <label class="sw_date_of_birth_label">Date of birth*</label>
+
+          <div class="date-select">
+            <div class='day-select'>
+              <label for="day" class="date_field">Day</label>
+              <input class="day" min="1" max="31" type="number" name="sw_non_member[date_of_birth_day]" id="sw_non_member_date_of_birth_day" />
+            </div>
+            <div class='month-select'>
+              <label for="month" class="date_field">Month</label>
+              <input class="month" min="1" max="12" type="number" name="sw_non_member[date_of_birth_month]" id="sw_non_member_date_of_birth_month" />
+            </div>
+            <div class='year-select'>
+              <label for="year" class="date_field">Year</label>
+              <input class="year" max="2020" type="number" name="sw_non_member[date_of_birth_year]" id="sw_non_member_date_of_birth_year" />
+            </div>
+          </div>
+        </div>
+
+        <div class="form__input">
+          <label for="sw_non_member_gender">How do you identify yourself?*</label>
+          <select name="sw_non_member[gender]" id="sw_non_member_gender"><option value="">Pick one</option>
+<option value="Male">Male</option>
+<option value="Female">Female</option>
+<option value="Other">Other</option>
+<option value="Prefer not to say">Prefer not to say</option>
+<option value="Non-Binary">Non-Binary</option></select>
+        </div>
+      </div>
+
+      <p>Your membership</p>
+      <div class="form__legend">
+        <input value="false" autocomplete="off" type="hidden" name="sw_non_member[soho_house_member]" id="sw_non_member_soho_house_member" />
+        <div class="form__input form__input_date">
+          <label class="sw_membership_start_date_label">Membership start date*</label>
+
+          <div class="date-select">
+            <div class='day-select'>
+              <label for="day" class="date_field">Day</label>
+              <input class="day" min="1" max="31" value="2" type="number" name="sw_non_member[membership_start_date_day]" id="sw_non_member_membership_start_date_day" />
+            </div>
+            <div class='month-select'>
+              <label for="month" class="date_field">Month</label>
+              <input class="month" min="1" max="12" value="12" type="number" name="sw_non_member[membership_start_date_month]" id="sw_non_member_membership_start_date_month" />
+            </div>
+            <div class='year-select'>
+              <label for="year" class="date_field">Year</label>
+              <input class="year" min="2020" value="2025" type="number" name="sw_non_member[membership_start_date_year]" id="sw_non_member_membership_start_date_year" />
+            </div>
+          </div>
+        </div>
+        <div class="form__input">
+          <label for="sw_non_member_your_sohoworks_location">Your primary Soho Works location*</label>
+          <select name="sw_non_member[your_sohoworks_location]" id="sw_non_member_your_sohoworks_location"><option value="">Pick one</option>
+<option value="180 Strand">London, 180 The Strand</option>
+<option value="72-74 Dean St">London, Dean Street</option>
+<option value="Shoreditch">London, Shoreditch</option>
+<option value="White City">London, White City</option>
+<option value="55 Water">New York, 55 Water Brooklyn</option>
+<option value="10 Jay">New York, 10 Jay Brooklyn</option>
+<option value="875 Washington">New York, 875 Washington</option>
+<option value="9000 Sunset">Los Angeles, 9000 Sunset</option></select>
+        </div>
+        <div class="form__input">
+          <label for="sw_non_member_type_of_membership">Soho Works membership type required*</label>
+          <select name="sw_non_member[type_of_membership]" id="sw_non_member_type_of_membership"><option value="">Pick one</option>
+<option value="Lounge_Local">Lounge Local</option>
+<option value="Lounge_Every">Lounge Every</option>
+<option value="Brooklyn_local">Brooklyn local</option>
+<option value="Lounge">Lounge</option>
+<option value="Desk">Desk</option>
+<option value="Office">Private Office</option>
+<option value="Off_Peak_Lounge">After Hours Lounge</option>
+<option value="Off_Peak_Plus_Lounge">Off Peak Plus Lounge</option></select>
+        </div>
+      </div>
+
+      <div class="sw_desks">
+        <p>Desks</p>
+        <div class="form__legend">
+          <div class="form__input">
+            <label for="sw_non_member_how_many_desks_do_you_require">If you require more than one desk. How many additional desks do you require?</label>
+            <input type="number" name="sw_non_member[how_many_desks_do_you_require]" id="sw_non_member_how_many_desks_do_you_require" />
+          </div>
+        </div>
+      </div>
+
+      <div class="sw_team_members">
+        <p>Do you want to add team members</p>
+        <div class="form__legend">
+          <div class="form__input">
+            <label for="sw_non_member_do_you_want_to_add_team_members">Do you want to add team members*</label>
+            <select name="sw_non_member[do_you_want_to_add_team_members]" id="sw_non_member_do_you_want_to_add_team_members"><option value="">Pick one</option>
+<option value="true">Yes</option>
+<option value="false">No</option></select>
+          </div>
+          <div class="form__input">
+            <label for="sw_non_member_how_many_team_members_you_want_to_add_to_your_membership">How many team members do you want to add to your membership? (optional)</label>
+            <input type="number" name="sw_non_member[how_many_team_members_you_want_to_add_to_your_membership]" id="sw_non_member_how_many_team_members_you_want_to_add_to_your_membership" />
+          </div>
+        </div>
+      </div>
+
+      <div class="sw_lockers">
+        <p>Lockers</p>
+        <div class="form__legend">
+          <div class="form__input">
+            <label for="sw_non_member_do_you_require_a_locker">Do you require a locker</label>
+            <select name="sw_non_member[do_you_require_a_locker]" id="sw_non_member_do_you_require_a_locker"><option value="">Pick one</option>
+<option value="true">Yes</option>
+<option value="false">No</option></select>
+          </div>
+          <div class="form__input">
+            <p>For Lounge members, there is a monthly fee to rent a locker. Lockers are subject to availability.</p>
+          </div>
+        </div>
+      </div>
+
+      <p>Your photo</p>
+      <div class="form__legend">
+        <div class="form__input">
+          <label for="sw_non_member_head_shot">Upload a recent photo</label>
+          <input accept="image/png,image/gif,image/jpeg" type="file" name="sw_non_member[head_shot]" id="sw_non_member_head_shot" />
+        </div>
+      </div>
+
+      <p>About your business</p>
+      <div class="form__legend">
+        <div class="form__input">
+          <label for="sw_non_member_registered_business_name">Registered business name*</label>
+          <input type="text" name="sw_non_member[registered_business_name]" id="sw_non_member_registered_business_name" />
+        </div>
+        <div class="form__input">
+          <label for="sw_non_member_nature_of_business">Nature of business*</label>
+          <select name="sw_non_member[nature_of_business]" id="sw_non_member_nature_of_business"><option value="">Pick one</option>
+<option value="Architecture">Architecture</option>
+<option value="Art">Art</option>
+<option value="Beauty">Beauty</option>
+<option value="Digital">Digital</option>
+<option value="Events">Events</option>
+<option value="Fashion">Fashion</option>
+<option value="Film">Film</option>
+<option value="Finance">Finance</option>
+<option value="Food and Beverage">Food and Beverage</option>
+<option value="Graphic Design">Graphic Design</option>
+<option value="Health and Wellness">Health and Wellness</option>
+<option value="Healthcare">Healthcare</option>
+<option value="Hospitality">Hospitality</option>
+<option value="Interior Design">Interior Design</option>
+<option value="Law">Law</option>
+<option value="Marketing/Advertising/Branding">Marketing/Advertising/Branding</option>
+<option value="Media &amp; Entertainment">Media &amp; Entertainment</option>
+<option value="Music">Music</option>
+<option value="Performing Arts">Performing Arts</option>
+<option value="Philanthropy">Philanthropy</option>
+<option value="Photography">Photography</option>
+<option value="Public Relations">Public Relations</option>
+<option value="Publishing">Publishing</option>
+<option value="Real Estate">Real Estate</option>
+<option value="Retail">Retail</option>
+<option value="Technology">Technology</option>
+<option value="Other">Other</option></select>
+        </div>
+        <div class="form__input">
+          <label for="sw_non_member_business_telephone">Business telephone*</label>
+          <input type="text" name="sw_non_member[business_telephone]" id="sw_non_member_business_telephone" />
+        </div>
+        <div class="form__input">
+          <label for="sw_non_member_position_held">Position held</label>
+          <input type="text" name="sw_non_member[position_held]" id="sw_non_member_position_held" />
+        </div>
+      </div>
+
+<!--      <p class="sw_about_you">About you</p>-->
+<!--      <div class="form__legend sw_about_you">-->
+<!--        <div class="form__input">-->
+<!--        </div>-->
+<!--        <div class="form__input">-->
+<!--        </div>-->
+<!--      </div>-->
+
+      <div class="sw_payment_breakdown">
+        <div class="sw_payment_breakdown_header">
+          <p>Payment Breakdown</p>
+        </div>
+        <div class="sw_payment_breakdown_fields_shoreditch">
+          <div class="sw_payment_breakdown_lounge_local_shoreditch_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£228.8 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_shoreditch_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£275 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_shoreditch_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_shoreditch_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_shoreditch_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£840 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£700 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_shoreditch_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_shoreditch_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£228.8 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_shoreditch_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£275 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_shoreditch_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_shoreditch_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_shoreditch_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£840 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£700 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_shoreditch_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£300 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_shoreditch_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£383 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_shoreditch_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_shoreditch_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_shoreditch_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£840 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£700 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_shoreditch_non_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="sw_payment_breakdown_fields_white_city">
+          <div class="sw_payment_breakdown_lounge_local_white_city_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£228.8 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_white_city_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£275 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_white_city_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_white_city_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_white_city_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£840 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£600 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_white_city_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_white_city_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£228.8 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_white_city_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£275 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_white_city_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_white_city_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_white_city_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£720 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£600 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_white_city_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£300 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_white_city_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£383 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_white_city_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_white_city_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_white_city_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£840 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£600 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_white_city_non_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="sw_payment_breakdown_fields_strand">
+          <div class="sw_payment_breakdown_lounge_local_strand_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£251.9 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_strand_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£275 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_strand_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_strand_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_strand_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£0" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_strand_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_strand_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£251.9 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_strand_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£275 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_strand_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_strand_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_strand_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£0" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_strand_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£330 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_strand_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£383 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_strand_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_strand_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_strand_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£0" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_strand_non_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="sw_payment_breakdown_fields_redchurch">
+          <div class="sw_payment_breakdown_lounge_redchurch_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£166.67 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_redchurch_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£50 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_redchurch_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£250 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_redchurch_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£50 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_redchurch_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£333.33 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_redchurch_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£50 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Brewer Street -->
+        <div class="sw_payment_breakdown_fields_brewer_street">
+          <div class="sw_payment_breakdown_lounge_brewer_street_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£166.67 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_brewer_street_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£50 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_brewer_street_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£667 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£667 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_brewer_street_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_brewer_street_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£250 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_brewer_street_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£50 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_brewer_street_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£667 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£667  + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_brewer_street_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£333.33 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_brewer_street_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£50 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_brewer_street_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£667 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£667 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_brewer_street_non_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Brewer Street -->
+
+        <!-- Dean Street -->
+        <div class="sw_payment_breakdown_fields_dean_street">
+          <div class="sw_payment_breakdown_lounge_local_dean_street_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£251.9 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_dean_street_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£275 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_dean_street_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_dean_street_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_dean_street_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£0" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_dean_street_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_dean_street_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£251.9 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_dean_street_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£275 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_dean_street_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_dean_street_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_dean_street_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£0" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_dean_street_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£330 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_every_dean_street_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£383 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_dean_street_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_dean_street_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£192.1 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_dean_street_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£0" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_dean_street_non_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Dean Street -->
+
+        <!-- Brighton Works -->
+        <div class="sw_payment_breakdown_fields_brighton">
+          <div class="sw_payment_breakdown_lounge_brighton_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£166.67 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_brighton_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£166.67 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_brighton_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£500 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£500 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_brighton_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_brighton_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£250 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_brighton_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_brighton_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£500 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£500 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_brighton_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£333.33 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_lounge_brighton_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£60 + VAT" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_brighton_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="£0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="£500 + VAT per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="£500 + VAT per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_brighton_non_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Brighton Works -->
+
+        <!-- 10 Jay -->
+        <div class="sw_payment_breakdown_fields_10_jay">
+          <div class="sw_payment_breakdown_lounge_10_jay_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$400 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_10_jay_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$600" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$600 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_10_jay_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_10_jay_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$250 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_10_jay_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_10_jay_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$525 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_10_jay_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$900" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$900 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_10_jay_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_10_jay_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$250 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_10_jay_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$525 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_10_jay_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$900" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$900 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_10_jay_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_local_10_jay_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$315 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_10_jay_non_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- 10 Jay -->
+        <div class="sw_payment_breakdown_fields_55_water">
+          <div class="sw_payment_breakdown_lounge_55_water_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$400 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_55_water_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$600" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$600 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_brooklyn_local_55_water_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$250 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_55_water_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_55_water_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_55_water_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$525 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_55_water_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$900" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$900 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_brooklyn_local_55_water_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$250 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_55_water_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_55_water_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$525 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_55_water_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$900" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$900 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_brooklyn_local_55_water_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$315 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_55_water_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_55_water_non_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="sw_payment_breakdown_fields_875_washington">
+          <div class="sw_payment_breakdown_lounge_875_washington_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$400 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_875_washington_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$720" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$720 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_875_washington_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_875_washington_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_875_washington_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$525 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_875_washington_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$1000" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$1000 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_875_washington_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_875_washington_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$525 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_875_washington_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$525 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_875_washington_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$1000" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$1000 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_875_washington_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_875_washington_non_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="sw_payment_breakdown_fields_9000_sunset">
+          <div class="sw_payment_breakdown_lounge_9000_sunset_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$400 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_9000_sunset_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$720" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$720 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_9000_sunset_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_9000_sunset_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_9000_sunset_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$525 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_9000_sunset_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$1000" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$1000 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_9000_sunset_friends_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_lounge_9000_sunset_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$525 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_desk_9000_sunset_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$125 + TAX per desk required" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$1000" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$1000 + TAX per desk required" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_off_peak_plus_lounge_9000_sunset_non_member">
+            <div class="form__legend">
+              <div class="form__input sw_payment_breakdown_registration_fee">
+                <label for="registration_fee">Registration fee</label>
+                <input type="text" name="registration_fee" id="registration_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="deposit_fee">Deposit fee</label>
+                <input type="text" name="deposit_fee" id="deposit_fee" value="$0" readonly="readonly" />
+              </div>
+              <div class="form__input">
+                <label for="monthly_fee">Monthly fee</label>
+                <input type="text" name="monthly_fee" id="monthly_fee" value="$240 + TAX" readonly="readonly" />
+              </div>
+            </div>
+          </div>
+          <div class="sw_payment_breakdown_office_9000_sunset_non_member">
+            <div class="form__legend">
+              <div class="form__input">
+                <label for="pricing">Pricing</label>
+                <p>We’ll provide more information on office space pricing upon application.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="sw_checkboxes">
+        <div class="checkbox-container">
+          <input name="sw_non_member[agreed_to_receive_marketing_emails]" type="hidden" value="0" autocomplete="off" /><input class="sw-checkbox" type="checkbox" value="1" name="sw_non_member[agreed_to_receive_marketing_emails]" id="sw_non_member_agreed_to_receive_marketing_emails" />
+          <div class="sw-policy-agreed">
+            <label class="sw-checkbox-label" tabindex="0" role="checkbox" for="sw_non_member_agreed_to_receive_marketing_emails">I would like to receive membership updates and news from the Soho House family</label>
+          </div>
+        </div>
+
+        <div class="checkbox-container">
+          <input name="sw_non_member[terms_and_conditions_with_privacy_policy_agreed]" type="hidden" value="0" autocomplete="off" /><input class="sw-checkbox" type="checkbox" value="1" name="sw_non_member[terms_and_conditions_with_privacy_policy_agreed]" id="sw_non_member_terms_and_conditions_with_privacy_policy_agreed" />
+          <div class="sw-policy-agreed">
+            <label class="sw-checkbox-label" tabindex="0" role="checkbox" for="sw_non_member_terms_and_conditions_with_privacy_policy_agreed">Check this box to confirm you have read, understood and accepted our Soho Works
+<a class="sw_policies_bold_terms_and_conditions" target="_blank" href="https://sohoworks.com/terms-conditions/">terms and conditions</a>
+and
+<a class="sw_policies_bold_terms_and_conditions" target="_blank" href="https://sohoworks.com/privacy-policy/">privacy policy</a>
+</label>
+          </div>
+        </div>
+      </div>
+
+      <input autocomplete="off" type="hidden" name="sw_non_member[application_email_identifier]" id="sw_non_member_application_email_identifier" />
+      <div class="sw_submit_button">
+  <div class="Aligner-item"><button name="button" type="submit" class="continue" id="sw_apply_submit">Submit</button></div>
+</div>
+</form>  </div>
+</div>
+
+    </div>
+  <footer>
+    
+<div class="policies">
+  <a href="https://sohoworks.com/terms-conditions/" target="_blank">Terms and conditions</a><br>
+  <a href="https://sohoworks.com/privacy-policy/" target="_blank">Privacy policy</a><br>
+  <a href="https://sohoworks.com/cookie-policy/" target="_blank">Cookie policy</a>
+</div>
+<div class="float_left">
+  <p>SOHO<b class="sohoworks-bold">WORKS</b></p>
+</div>
+<div class="float_right">
+  <p>© Soho House 2025</p>
+</div>
+  </footer>
+  <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="205014724f060bdf9c5e2b4a-|49" defer></script></body>
+</html>
+
+non Member Response status: 200
+UI title1 Soho Works Application Form
