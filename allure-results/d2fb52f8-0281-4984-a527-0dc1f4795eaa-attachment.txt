@@ -1,2 +1,0 @@
-STEP: Starting SohoWorks Member Application API + UI Validation Test
-STEP: Triggering sw_apply GET API and loading page
