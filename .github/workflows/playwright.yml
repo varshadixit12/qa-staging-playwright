@@ -40,7 +40,7 @@ jobs:
     - name: Generate Allure Report
       if: always()
       run: |
-        npm run allure:report || true
+        npm run allure:generate || true
       continue-on-error: true
 
     - name: Upload Playwright Report
